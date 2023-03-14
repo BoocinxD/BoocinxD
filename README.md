@@ -1,47 +1,27 @@
-### Hi , I'm WHO ME 
-
-## KASIH STAR 🌟🌟🌟🌟🌟🌟🌟
-
-![Mengetik SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
-
-<a href="https://linkedin.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
-
-<a href="https://stackoverflow.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dephraiim" height="20" width="20" /></a>
-
-<a href="https://instagram.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" /></a>
-
-  <a href="https://dev.to/dephraiim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dephraiim" height="20" width="20" /></a>
-
-</p>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
+<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm MR.Alvino a lupine</h1>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Welcome+To+My+Github;You+Know+Who+Is+Handsome;Al+Vino+Adijaya;Nice+To+Meet+You+...&center=true"></a>
 
-<a href="https://twitter.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dephraiim" height="20" width="20" /></a>
 
-<a href="https://linkedin.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
+<h1 align="center">★ STATISTICS ★</i></b></h3>
+<a href="https://github.com/Hunter-alamin"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Hunter-alamin&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<li> 😍 <i> MUSLIM</i></li>
+<li> 🌚 <i> SINGLE</i></li>
+<li> 👩‍💻 <i> TEACHER</i></li>
+<li> 🌟 <i> FOCUSING ON PYTHON</i></li><br>
 
-<a href="https://stackoverflow.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dephraiim" height="20" width="20" /></a>
-
-<a href="https://instagram.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" /></a>
-
-  <a href="https://dev.to/dephraiim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dephraiim" height="20" width="20" /></a>
-
-</p>
-
-<br>
-
-<br>
-
-     
-
-<img align='kanan' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="450" />
-
-![header_](https://user-images.githubusercontent.com/77473259/128132436-d8e852dd-bc5b-41a2-9ce4-46b6aad27ad8.png)
+## ★ Github data ★
+>
+> *Number of visitors*
+* **Visitor Github @Al-Vino Adj**
+![DUMAI-991](https://komarev.com/ghpvc/?username=Dumai-991&color=blue)
+* **Visitor Trending @MHF-233**
+![DUMAI-200](https://komarev.com/ghpvc/?username=Dumai-200&color=blue)
+>
+## MY SOCIAL MEDIA
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Al-Vino) [![](https://img.shields.io/badge/Twitter-yellow?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/AdjAlvino)[![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=red&labelColor=white)](https://t.me/mhff_xy)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/legend.alvino)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/mhff_xy) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/17154739342?text=Asalamualaikum+kak+Vino+ganteng)
+## KASIH BINTANG WOY🌟🌟🌟🌟🌟🌟🌟
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
