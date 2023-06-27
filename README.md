@@ -13,11 +13,11 @@
   <li> 🌟 <i> FOCUSING ON PYTHON</i></li><br>
 
 ![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
-⊢ My 
-⊢- 🔭 I’m currently working on more projects involving python, shell, c++, golang, php and nodejs
-⊢- 🌱 I’m currently learning perl 
-⊢- 📫 How to reach me: <a href="https://wa.me/+99999999999?text=Hi+AnonyminHack5+nice+to+meet+you+my+name+is+ " target="_blank" >Whatsapp (No spamming)</a>
-⊢- 💠 I love programming a lot in shell and python and looking forward to make other scripts with perl. Going to be a great expert experience for me though.
+
+- 🔭 I’m currently working on more projects involving python, shell, c++, golang, php and nodejs
+- 🌱 I’m currently learning perl 
+- 📫 How to reach me: <a href="https://wa.me/+99999999999?text=Hi+AnonyminHack5+nice+to+meet+you+my+name+is+ " target="_blank" >Whatsapp (No spamming)</a>
+- 💠 I love programming a lot in shell and python and looking forward to make other scripts with perl. Going to be a great expert experience for me though.
 
 ## ★ Github data ★
 >
