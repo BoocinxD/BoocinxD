@@ -7,10 +7,10 @@
 
 <h1 align="center">★ STATISTICS ★</i></b></h3>
 <a href="https://github.com/Hunter-alamin"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Hunter-alamin&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
-<li> 😍 <i> MUSLIM</i></li>
-<li> 🌚 <i> SINGLE</i></li>
-<li> 👩‍💻 <i> TEACHER</i></li>
-<li> 🌟 <i> FOCUSING ON PYTHON</i></li><br>
+  <li> 😍 <i> MUSLIM</i></li>
+  <li> 🌚 <i> SINGLE</i></li>
+  <li> 👩‍💻 <i> TEACHER</i></li>
+  <li> 🌟 <i> FOCUSING ON PYTHON</i></li><br>
 
 ![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
